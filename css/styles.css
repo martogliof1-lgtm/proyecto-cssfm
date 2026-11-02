@@ -1,0 +1,46 @@
+/*logo, nombre de la cooperativa y menu*/
+.H1GDC, .H2CL,{
+  color: #0826aa;
+  font-size: 2 rem;
+}
+a{
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 1.8 rem;
+}
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #FFFFFF;
+  padding: 15px 30px;
+  background-color: #1B3F6E;
+}
+.social-icon img{
+  display: flex;
+  width: 30px;
+  height: auto;
+  align-items: left;
+  text-decoration: none;
+  color: #FFFFFF;
+}
+/* lista de menu de navegacion*/
+ul{
+  list-style: none;
+  text-decoration: none;
+  display: flex;
+  color: #FFFFFF;
+  font-size: 1.5 rem;
+  gap: 30px; 
+  padding: 0px;
+  margin: 0rem;
+}
+/*tipografia de cuerpo*/
+*{
+  font-family: 'Roboto', sans-serif;
+}
+.instructivo{
+  font-size: 1.2 rem;
+  color: #000000;
+}
+
